@@ -1,6 +1,6 @@
 # Displaying Bike Share Data/Conducting Analysis with Tableau and Pandas
 
-###Link to Data Story:
+### Link to Data Story:
 https://public.tableau.com/app/profile/dean.arnold/viz/Module14Assignment/NYCCitibikeStory
 
 ## Overview
