@@ -1,10 +1,10 @@
-# Displaying Bike Share Data/Conducting Analysis with Tableau and Pandas
+# Displaying Bikeshare Data/Conducting Analysis with Tableau and Pandas
 
 ### Link to Data Story:
 https://public.tableau.com/app/profile/dean.arnold/viz/Module14Assignment/NYCCitibikeStory
 
 ## Overview
-The Bike Share company Citibike has provided a large dataset for the month of August tracking every single ride in New York City, and all the data that comes with it. This includes start/end coordintes, length of trip, gender of user, etc. As shown in the link above, multiple types of analysis are able to be conducted, and displayed in an interactive manner with Tableau.
+The bikeshare company Citibike has provided a large dataset for the month of August tracking every single ride in New York City, and all the data that comes with it. This includes start/end coordintes, length of trip, gender of user, etc. As shown in the link above, multiple types of analysis are able to be conducted, and displayed in an interactive manner with Tableau.
 
 ## Results
 We first clean the dataset using Python/Pandas, by simply converting the column with trip times (displayed in whole seconds) into datetime, then our new dataset is loaded into Tableau for analysis.
