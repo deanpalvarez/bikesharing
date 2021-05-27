@@ -11,16 +11,16 @@ We first clean the dataset using Python/Pandas, by simply converting the column 
 
 With the link above opened, our story shows us the following, while additional information is showed where the mouse is hovered over:
 
--Total count of rides logged in the dataset
--Busiest hours throughout the entire month
--Length/count of trips displayed in a line chart, then filtered by gender
--Heatmaps demonstrating the amount of rides by hour, day, gender, and customer type 
+- Total count of rides logged in the dataset
+- Busiest hours throughout the entire month
+- Length/count of trips displayed in a line chart, then filtered by gender
+- Heatmaps demonstrating the amount of rides by hour, day, gender, and customer type 
 
 ## Summary
 While our Tableau charts are visually appealing, dynamic, and allowing of different types of analysis to be made (such as when to do maintenance/adjust rates) some general conlcusions can be made:
 
--Of the 2+ million trips logged for august, 5pm is the most popular time, and 3-4am is the least
--Most trips are around 5 minutes long, and most popular among males, mostly on Thursdays
--Most Citibike customers are subscribers to the service, as opposed to just regular customers.
+- Of the 2+ million trips logged for august, 5pm is the most popular time, and 3-4am is the least
+- Most trips are around 5 minutes long, and most popular among males, mostly on Thursdays
+- Most Citibike customers are subscribers to the service, as opposed to just regular customers.
 
 
